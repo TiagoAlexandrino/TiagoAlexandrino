@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TiagoAlexandrino
 - 👀 I’m interested in Padel, Race Car Culture, Sci Fi and Retro Games 👾 
-- 🌱 I’m currently learning UX, UI and Gamification at IDFx
+- 🌱 I’m currently learning UX, UI and Gamification at IxDF
 - 💞️ I’m looking to collaborate on everything Sketch
 - 📫 How to reach me tiago.alexandrino@sketch.com
 
